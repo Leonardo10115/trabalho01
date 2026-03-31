@@ -5,4 +5,4 @@ Adicionado
      Estrutura inicial do projeto
      Pagina de funcionalidades
 Corrigido
-     Ajustes de titulo     
+     Ajustes de titulo.   
